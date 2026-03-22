@@ -1,0 +1,48 @@
+ /* Estilos para a tabela */
+table { 
+    border-collapse: collapse; 
+    width: 70%; 
+    margin-top:20px; 
+}
+th, td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: center; 
+}
+/* Estilos para os status de aprovação */
+/* alunos aprovados em verde */
+.aprovado { 
+    color: green; 
+    font-weight: bold; 
+}
+/* alunos reprovados em vermelho */
+.reprovado { 
+    color: red; 
+    font-weight: bold; 
+}
+/* Estilos gerais da página */
+body{
+    background-color: #add4f7;
+    font-family: Arial, sans-serif;
+    color: #033258;
+}
+button {
+    background-color: #033258;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+input {
+    padding: 5px;
+    border: 1px solid #1d20f094;
+    border-radius: 3px;
+}
+.instrucoes {
+    background-color: #bedefa;
+    border: 1px solid #0f084e;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
