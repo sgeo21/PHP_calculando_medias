@@ -1,10 +1,10 @@
-## 📘 ** README – Atividade notas alunos
-## 🌐** Sobre o Projeto
+## 📘  README – Atividade notas alunos
+## Sobre o Projeto
 Este repositório contém o desenvolvimento do site voltado para inclusão e cálculo de notas de uma sala de aula/escola fictícia criada para fins de estudo. O projeto foi construído inteiramente com Php e CSS, priorizando o tratamento de dados, mesmo sem utilizar banco de dados, facilidade na utilização e boas práticas de marcação.
 
----
 
-## ✨ ** Funcionalidades
+
+## ✨  Funcionalidades
 
 📍 Formulário de adição de dados funcional (estrutura php)
 
@@ -13,40 +13,40 @@ Este repositório contém o desenvolvimento do site voltado para inclusão e cá
 ---
 
 
-## 🛠️ ** Tecnologias Utilizadas
+## 🛠️  Tecnologias Utilizadas
 HTML5
 
 PHP
 
 ---
 
-## 🚀 ** Como Executar o Projeto
+## 🚀  Como Executar o Projeto
 Clone o repositório:
 
-git clone 
+git clone https://github.com/sgeo21/PHP_calculando_medias
 
 Acesse a pasta:
 
-cd 
+cd media_alunos
 
 Abra o arquivo notas8a.php diretamente no navegador. É necessário utilizar Apache para abrir o projeto em localhost.
 
 ---
 
-## 🖥️ ** Prévia do Projeto
+## 🖥️  Prévia do Projeto
 ![Prévia da tela do projeto](https://ik.imagekit.io/kv6tr431r/Atividade%2013%20ETEC/Nota_alunos.png)
 
 --- 
 
-## 🧩 ** Tecnologias Principais no Código
+## 🧩  Tecnologias Principais no Código
 Toda a parte visual é construída com css para melhor experiência do usuário.
 
 ---
 
-## 👩🏽‍💻 ** Autora
-Geovana Cazali
+## 👩🏽‍💻  Autora
+Geovana 
 
-📌 Desenvolvedora Fullstack 
+📌 Desenvolvedora web Fullstack 
 
 ---
 
