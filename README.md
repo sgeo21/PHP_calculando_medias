@@ -40,7 +40,8 @@ Abra o arquivo notas8a.php diretamente no navegador. É necessário utilizar Apa
 
 ## 🧩  Tecnologias Principais no Código
 
-PHP é a pricnipal tecnologia utilizada
+PHP é a pricnipal tecnologia utilizada.
+
 Toda a parte visual é construída com css para melhor experiência do usuário.
 
 ---
@@ -52,7 +53,7 @@ Geovana
 
 ---
 
-## 🔗 ** Contatos
+## 🔗 Contatos
 
  🌐 GitHub: https://github.com/geovana-cazali
 
